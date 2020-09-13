@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LeaderBoard</string>
+    <string name="submit">submit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_tab">Learning Leaders</string>
+    <string name="second_tab">Skill IQ Leaders </string>
+    <string name="edit_text1_hint"> First Name</string>
+    <string name="edit_text2_hint"> Last Name</string>
+    <string name="edit_text3_hint"> Email Address</string>
+    <string name="edit_text4_hint"> Project on GITHUB (link)</string>
+    <string name="submit_button">Submit</string>
+</resources>
